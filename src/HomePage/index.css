@@ -1,0 +1,25 @@
+/* .body {
+  font-family: "DM Sans", sans-serif;
+} */
+.hideMenuNav {
+  display: none;
+}
+.showMenuNav {
+  display: block;
+
+  width: 100%;
+}
+.navbar {
+  height: 90px;
+  background-color: brown;
+}
+.navbar {
+  background-color: transparent;
+  height: 80px;
+  width: 90%;
+}
+
+/* .navbar.scroll {
+  background-color: var(--gray-900, #111827);
+  transition: 3s ease-in-out;
+} */
