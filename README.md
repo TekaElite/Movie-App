@@ -1,8 +1,10 @@
-# React + Vite
+MovieBox is a dynamic movie discovery web application that allows users to search for movies, view movie details,  This project utilizes the TMDB API to fetch movie data and presents it through a user-friendly interface. Below, you'll find all the necessary information to understand, run, and contribute to this project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The main objective of this project is to create a movie discovery web application that offers the following functionalities:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Display a responsive and visually appealing user interface.
+List the top 10 movies on the homepage, presented in a grid layout with movie posters, titles, and release dates.
+Implement a movie search feature allowing users to search for movies by title.
+Show movie details, including title, release date, runtime, and overview, on the movie details page.
+Consume the TMDB API to fetch movie data.
+Provide error handling for API failures and other issues.
